@@ -1,0 +1,27 @@
+variablat ndryshojn vlerat ruhen ne ram if overloaded they go to D
+- einstances:  the general one
+-statike:  psh static int kodiFakullteti=15;  dmth vlera qe nuk ndryshojn por dojm ti shfaqim si variabel
+-lokale:  metode dmth funskion ne gjuhen e object oriented (kane edhe keto tipe)
+
+deklarimi i variablave
+-duke dhene tipin psh char int double
+inicializimi
+-int x=15;
+
+konstatet
+-ato qe e rujn vleren gjate tere kohes
+-final datatype CONSANTME=VALUE;
+PSH final  double PI=3.14159;
+
+tipet e te dhenave
+menyra ose si shkruhen te dhenat
+-tipet numerike-int,float,doubke;
+       tekstuale-string,char;
+       imazh,logjike
+
+klasa eshte tip me reference per tiu referuar nje objekti
+instancat e klases jane objekti 
+nje objekt konsiston ne nje grumbull te variablave se ka t definum tipin dmth  po variablat mujn me qene 200 me tip te ndryshme
+
+
+
