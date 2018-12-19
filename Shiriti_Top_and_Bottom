@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+
+body 
+{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.shiriti 
+{
+    overflow: hidden;
+    background-color: rgb(21, 88, 133);
+}
+
+.shiriti a2
+{
+    float: left;
+    color: white;
+    text-align: left;
+    letter-spacing: normal;
+    padding: 1px;
+    font-size: 13px;
+}
+.shiriti a1
+{
+    margin-left: 5px;
+    float: left;
+    color: white;
+    text-align: left;
+    letter-spacing: normal;
+    padding: 1px;
+    font-size: 13px;
+}
+
+.shiriti a3 
+{
+    float: right;
+    color: white;
+    text-align: right;
+    letter-spacing: normal;
+    padding: 1px;
+    font-size: 13px;
+}
+.shiriti a4
+{
+    margin-right: 5px;
+    float: right;
+    color: white;
+    text-align: right;
+    letter-spacing: normal;
+    padding: 1px;
+    font-size: 13px;
+}
+
+.testing
+{
+    margin-top: 2000px;
+}
+   
+</style>
+</head>
+
+<body>
+
+
+<div class="shiriti">
+    <a1>Libero</a1>
+    <a2>|</a2>
+    <a2>Maecenas</a2>
+    <a2>|</a2>
+    <a2>Mauris</a2>
+    <a2>|</a2>
+    <a2>Suspendisse</a2>
+
+    <a4>Suspendisse</a4>
+    <a3>|</a3>
+    <a3>Mauris</a3>
+    <a3>|</a3>
+    <a3>Maecenas</a3>
+    <a3>|</a3>
+    <a3>Libero</a3>
+</div>
+
+<div class="testing">
+        <a>TESTING</a>
+    </div>
+</body>
+
+<footer>
+<style>
+    .footer
+    {
+        right: 0;
+        left: 0;
+        bottom: 20;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        overflow: hidden;
+        background-color: rgb(224, 203, 162);
+    }
+    .footer h3
+    {
+        border-bottom: 1px solid grey;
+        font-family: 'Times New Roman', Times, serif;
+        color: grey;
+        margin-left: 5px;
+    }
+    .footer p, a
+    {
+        padding: 0.3px;
+        letter-spacing: normal;
+        margin-left: 5px;
+    }
+
+    
+    .bottom btm
+    {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        color:  rgb(53, 48, 43);
+        background-color:  grey;
+        text-align: center;
+        letter-spacing: normal;
+        padding: 13px;
+    }
+</style>
+
+<div class="footer">
+        <h3>Home</h3>
+        <a>Lorem ispum dolor</a>
+        <p>Suspendisse in neque</p>
+        <p>Praesent et eors</p>
+        <p>Lorem ipsum dolor</p>
+        <p>Suspendisse in neque</p>
+        <p>Praesent et eros</p>
+</div>
+
+<div class="bottom">
+    <btm>Copyright © 2013 Domain Name - All Rights Reserved</btm>
+</div>
+</footer>
+</html>
